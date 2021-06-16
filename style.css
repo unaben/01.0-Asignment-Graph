@@ -1,0 +1,25 @@
+.p{
+    font-size:x-large;
+    font-weight: 500px;
+}
+
+.third-section{
+    margin-left: 40px;
+}
+
+.intro{
+    font-weight: bold;
+}
+
+.image{
+    margin-left: 60px;
+}
+
+.fig{
+    margin-left: 40px;
+}
+
+.wiki{
+    margin:0px 20px 0px 0px;
+    text-decoration: none;
+}
